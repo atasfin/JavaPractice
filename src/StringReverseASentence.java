@@ -1,5 +1,9 @@
+/**
+ * 10) How to reverse the words in a given String sentence?
+ *
+ */
+
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class StringReverseASentence {
@@ -26,10 +30,6 @@ public class StringReverseASentence {
         }
 
         System.out.println(reverseSentence);
-
-
-
-
 
     }
 
